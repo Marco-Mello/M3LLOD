@@ -3,3 +3,5 @@ git add -A (TUDO)
 git add lalal.txt (Somente Arquivo)
 git commit -m "teste push"
 git push
+git log -> commits no bash
+gitk -> commits Interface
